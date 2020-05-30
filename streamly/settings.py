@@ -25,7 +25,7 @@ SECRET_KEY = '4o9xe#o=oe-(0tgqb8tx1in9xj_e=@gw!d0sb(xe*t-e=tu2(u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://thestreamly.herokuapp.com/']
+ALLOWED_HOSTS = ['thestreamly.herokuapp.com']
 
 
 # Application definition
